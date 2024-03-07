@@ -1,0 +1,82 @@
+[
+  {
+    "season": "2016-2017",
+    "matches": 38,
+    "wins": 25,
+    "losses": 6,
+    "draws": 7,
+    "performance": "Champion",
+    "total_points": 82,
+    "red_cards": 3
+  },
+  {
+    "season": "2017-2018",
+    "matches": 38,
+    "wins": 20,
+    "losses": 10,
+    "draws": 8,
+    "performance": "Runner-up",
+    "total_points": 68,
+    "red_cards": 5
+  },
+  {
+    "season": "2018-2019",
+    "matches": 38,
+    "wins": 22,
+    "losses": 7,
+    "draws": 9,
+    "performance": "Top 4",
+    "total_points": 75,
+    "red_cards": 2
+  },
+  {
+    "season": "2019-2020",
+    "matches": 38,
+    "wins": 18,
+    "losses": 11,
+    "draws": 9,
+    "performance": "Top 6",
+    "total_points": 63,
+    "red_cards": 4
+  },
+  {
+    "season": "2020-2021",
+    "matches": 38,
+    "wins": 24,
+    "losses": 8,
+    "draws": 6,
+    "performance": "Top 3",
+    "total_points": 78,
+    "red_cards": 3
+  },
+  {
+    "season": "2021-2022",
+    "matches": 38,
+    "wins": 21,
+    "losses": 9,
+    "draws": 8,
+    "performance": "Top 5",
+    "total_points": 71,
+    "red_cards": 3
+  },
+  {
+    "season": "2022-2023",
+    "matches": 38,
+    "wins": 19,
+    "losses": 10,
+    "draws": 9,
+    "performance": "Top 6",
+    "total_points": 66,
+    "red_cards": 4
+  },
+  {
+    "season": "2023-2024",
+    "matches": 38,
+    "wins": 23,
+    "losses": 7,
+    "draws": 8,
+    "performance": "Top 4",
+    "total_points": 77,
+    "red_cards": 2
+  }
+]

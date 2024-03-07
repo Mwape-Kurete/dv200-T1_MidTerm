@@ -8,18 +8,20 @@ import "../Styles/Navbar.css";
 
 function Navbar() {
   return (
-    <ul class="nav justify-content-center">
-      <li class="nav-item">
-        <Link to="/" class="nav-link current">
-          Home
-        </Link>
-      </li>
-      <li class="nav-item">
-        <Link to="/Charts" class="nav-link">
-          View Stats
-        </Link>
-      </li>
-    </ul>
+    <div className="navbar_cont">
+      <ul class="nav justify-content-center">
+        <li class="nav-item text-center">
+          <Link to="/" class="nav-link current">
+            Home
+          </Link>
+        </li>
+        <li class="nav-item text-center">
+          <Link to="/Charts" class="nav-link">
+            View Stats
+          </Link>
+        </li>
+      </ul>
+    </div>
   );
 }
 

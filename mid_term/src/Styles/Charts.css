@@ -1,0 +1,74 @@
+body {
+  background-image: url("../media/background6.jpg");
+  background-repeat: no-repeat;
+  background-color: rgb(46, 0, 1);
+}
+.charts-cont-large {
+  margin-top: 75px;
+  padding: 5px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin: 15px;
+}
+
+.first {
+  margin-left: 80px;
+}
+.second {
+  padding-top: 20px;
+}
+
+.timeline-cont {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(13.5px);
+  -webkit-backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  color: azure;
+  height: 450px;
+  padding-top: 50px;
+  margin: 15px;
+}
+
+.barChart {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(13.5px);
+  -webkit-backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  color: azure;
+  height: 450px;
+  padding-top: 50px;
+  margin: 15px;
+}
+
+.pieChart-cont {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(13.5px);
+  -webkit-backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  color: azure;
+  height: 500px;
+  margin: 15px;
+  padding-top: 20px;
+}
+
+.chart-type4 {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(13.5px);
+  -webkit-backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  color: azure;
+  height: 500px;
+  margin: 15px;
+  padding-top: 20px;
+}
+
+.chart-type5 {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(13.5px);
+  -webkit-backdrop-filter: blur(13.5px);
+  border-radius: 25px;
+  color: azure;
+  height: 500px;
+  margin: 15px;
+  padding-top: 20px;
+}
