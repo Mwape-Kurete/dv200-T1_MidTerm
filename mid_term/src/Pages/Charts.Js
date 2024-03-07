@@ -6,7 +6,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import "../Styles/Home.css";
 import Navbar from "../Components/Navbar";
 
-function Home() {
+function Charts() {
   return (
     <div className="container-fluid homepage">
       <div className="row navbar">
@@ -37,4 +37,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Charts;
